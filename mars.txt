@@ -1,2 +1,3 @@
 Nano opens up the text editor.
 I missed the rest
+Third
